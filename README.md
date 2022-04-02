@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**nelsonGuti/nelsonGuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Frontend Developer from Costa Rica 🇨🇷
 
-Here are some ideas to get you started:
+### 🔨 What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥 I'm currently working as Lead Frontend Developer at [Swimlane](https://swimlane.com)
+
+### Working with
+- Angular
+- Typescript 
+- Nest
+- Web Components
+- Lit
+- NodeJS
+- RxJS
+- MongoDB
+
+(In my spare time I'm learning React!)
+
+### 📫 You can find me
+- [Twitter](https://twitter.com/nel81212) 🐦
+- [LinkedIn](https://www.linkedin.com/in/nelson-gutierrez-7649ab63/) 💼
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nelsonGuti)
+-----
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonGuti&theme=cobalt)
+-----
+![My stats](https://github-readme-stats.vercel.app/api?username=nelsonGuti&count_private=true&show_icons=true&theme=cobalt)
+-----
+![Trophy](https://github-profile-trophy.vercel.app/?username=nelsonGuti)
