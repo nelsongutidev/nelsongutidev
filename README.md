@@ -9,7 +9,6 @@
 ### Working with
 - Angular
 - Typescript 
-- Nest
 - Web Components
 - Lit
 - NodeJS
