@@ -4,18 +4,7 @@
 
 ### 🔨 What I do
 
-🖥 I'm currently working as Lead Frontend Developer at [Swimlane](https://swimlane.com)
-
-### Working with
-- Angular
-- Typescript 
-- Web Components
-- Lit
-- NodeJS
-- RxJS
-- MongoDB
-
-(In my spare time I'm learning React!)
+🖥 I'm currently working as Senior Angular Engineer at [HeroDevs](https://www.herodevs.com/)
 
 ### 📫 You can find me
 - [Twitter](https://twitter.com/nel81212) 🐦
