@@ -16,4 +16,4 @@
 -----
 ![My stats](https://github-readme-stats.vercel.app/api?username=nelsongutidev&count_private=true&show_icons=true&theme=cobalt)
 -----
-![Trophy](https://github-profile-trophy.vercel.app/?username=nelsonGuti)
+![Trophy](https://github-profile-trophy.vercel.app/?username=nelsongutidev)
