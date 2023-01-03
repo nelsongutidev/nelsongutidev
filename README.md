@@ -10,7 +10,7 @@
 - [Twitter](https://twitter.com/nel81212) 🐦
 - [LinkedIn](https://www.linkedin.com/in/nelson-gutierrez-7649ab63/) 💼
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nelsonGuti)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nelsongutidev)
 -----
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nelsongutidev&theme=cobalt)
 -----
