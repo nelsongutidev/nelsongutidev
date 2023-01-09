@@ -10,8 +10,3 @@
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nelsongutidev)
 -----
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=nelsongutidev&theme=cobalt)
------
-![My stats](https://github-readme-stats.vercel.app/api?username=nelsongutidev&count_private=true&show_icons=true&theme=cobalt)
------
-![Trophy](https://github-profile-trophy.vercel.app/?username=nelsongutidev)
