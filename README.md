@@ -5,8 +5,8 @@
 🖥 I'm currently working as Senior Angular Engineer at [HeroDevs](https://www.herodevs.com/)
 
 ### 📫 You can find me
-- [Twitter](https://twitter.com/nel81212) 
-- [LinkedIn](https://www.linkedin.com/in/nelson-gutierrez-7649ab63/) 
+- [Twitter]((https://twitter.com/nelsongutidev)
+- [LinkedIn](https://www.linkedin.com/in/nelsongutidev/) 
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nelsongutidev)
 -----
