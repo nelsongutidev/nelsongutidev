@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm a Frontend Developer from Costa Rica 🇨🇷
+### I'm a Frontend Engineer from Costa Rica 🇨🇷
 
 🖥 I'm currently working as Senior Angular Engineer at [HeroDevs](https://www.herodevs.com/)
 
